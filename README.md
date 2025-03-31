@@ -1,0 +1,1 @@
+This project is a web-based e-commerce platform that enables users to browse products, register accounts, and place orders. It integrates a RESTful API for data management and JWT Token for secure authentication and authorization.
